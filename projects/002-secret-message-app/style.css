@@ -1,0 +1,13 @@
+.container{
+    width : 60%;
+    height: 60%;
+    border:5px black solid;
+    margin: auto;
+    
+}
+#linkpage{
+    display: none;
+}
+#lastpage{
+    display:none;
+}
